@@ -11,8 +11,10 @@
             "id": "beccb95a17ef80f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "00 - Administrative Documents/How not to write a college essay about videogames.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 - Administrative Documents/How not to write a college essay about videogames.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 - Administrative Documents/How not to write a college essay about videogames.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 - Administrative Documents/How not to write a college essay about videogames.pdf"
+              }
             }
           }
         ]
