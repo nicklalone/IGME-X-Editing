@@ -1,0 +1,1 @@
+Let's explore the career and events surrounding Jason Rohrer. Many of you will have no idea who this guy is as we do not really explore the fringes of design but there's a real value in doing so because the raw creativity is fantastic.

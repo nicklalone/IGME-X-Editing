@@ -1,0 +1,1 @@
+We all have friends who love what we do. They could be significant others, best friends, and family who have a vested interest in our work. These folks are not good barometers of success.

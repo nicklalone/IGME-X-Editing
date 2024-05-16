@@ -1,0 +1,1 @@
+One of my favorite mods in Half Life is Trouble in Terrorist Town. In this mod, one person is a betrayer and it's up to you to find them. This concept has been used in billions of games. As a concept, it's taken time to really get it to make sense.
